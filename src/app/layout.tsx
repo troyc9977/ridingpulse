@@ -19,7 +19,7 @@ const jetbrainsMono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Riding Pulse",
+  title: "RidingPulse",
   description: "Next.js app with Tailwind, shadcn/ui, and a three-rail shell",
 };
 
