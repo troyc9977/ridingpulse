@@ -69,7 +69,7 @@ export function AppShell({ children }: { children: React.ReactNode }) {
         <header className="border-border bg-background/80 flex h-14 shrink-0 items-center gap-3 border-b px-4 backdrop-blur-sm">
           <div className="min-w-0 flex-1">
             <h1 className="truncate text-sm font-semibold tracking-tight">
-              Riding Pulse
+              RidingPulse
             </h1>
             <p className="text-muted-foreground truncate text-xs">
               App shell · three-column layout
