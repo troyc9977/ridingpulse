@@ -1,3 +1,22 @@
+
+# RidingPulse
+
+Campaign intelligence platform for Ontario municipal elections.
+Map-first, MEA-compliant, built for the October 26, 2026 cycle.
+
+## Development
+
+    npm install
+    npm run dev
+
+## Documentation
+
+See `/docs` for research, build plan, and product spec.
+
+
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
